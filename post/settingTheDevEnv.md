@@ -15,9 +15,9 @@ Activate the virtual voice-comp environment.<br>
 $ ```source voice-comp/bin/activate```
 
 ### 2. Installing necessary python modules
- ```module name```   ```command```
-pydub - pip install pydub  
-wave - pip install wave 
-librosa - pip install librosa
-scipy - pip install scipy 
-soundfile - pip install soundfile
+ ```module name```   ```command```<br>
+pydub - pip install pydub  <br>
+wave - pip install wave <br>
+librosa - pip install librosa<br>
+scipy - pip install scipy <br>
+soundfile - pip install soundfile<br>
