@@ -1,0 +1,6 @@
+{
+	"rate": 175,
+	"rates": [175, 150, 125, 100, 200, 225, 250, 275, 300],
+	"voiceid": "armenian",
+	"voiceids": ["bulgarian", "default", "english", "english_wmids", "english-us", "persian", "armenian", "armenian-west"]
+}
